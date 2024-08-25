@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arevir26 an agriculturist, computer programmer and data analyst.
+- 👋 Hi, I’m @arevir26 an agriculturist, a computer programmer and a data analyst.
 - 👀 I’m interested in computer science and electronics
 - 🌱 I’m currently learning coding for microcontrollers
 - 💞️ I’m looking to collaborate on projects related to automation of farming
